@@ -35,3 +35,8 @@ The repository focuses on the analysis workflow and documentation.
 This project is based on one confocal microscopy experiment with six imaging fields per condition.
 
 The analysis is exploratory and demonstrates a bioimage-analysis workflow rather than providing statistical evidence from independent biological replicates.
+## Conclusion
+
+This bioimage analysis workflow showed higher mean nuclear HuR fluorescence in CMLD2- and PMA-treated imaging fields compared with Control fields, with the highest mean nuclear HuR intensity observed in PMA-treated fields. These results demonstrate how Python-based image analysis can be used to quantify nuclear fluorescence across microscopy images.
+
+As this analysis was performed on one confocal microscopy experiment with six imaging fields per condition, the findings are exploratory and describe variation between imaging fields rather than independent biological replicates.
